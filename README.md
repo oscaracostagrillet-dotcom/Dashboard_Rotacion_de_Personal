@@ -3,22 +3,22 @@ Este proyecto presenta un análisis histórico de la rotación de personal en un
 
 El objetivo fue analizar la rotación de empleados y los costos de contratación asociados, con el fin de identificar:
 
-La tasa de rotación total y por género.
+.-La tasa de rotación total y por género.
 
-La distribución de empleados por sexo.
+.-La distribución de empleados por sexo.
 
-El impacto de la rotación en puestos críticos (ej. Pilotos).
+.-El impacto de la rotación en puestos críticos (ej. Pilotos).
 
-Los costos de contratación por puesto de trabajo.
+.-Los costos de contratación por puesto de trabajo.
 
 Principales métricas incluidas:
 
-Total de ingresos y salidas de personal.
+.-Total de ingresos y salidas de personal.
 
-Edad mínima, máxima y promedio de la plantilla.
+.-Edad mínima, máxima y promedio de la plantilla.
 
-Tasa de rotación global (%) y segmentada por género.
+.-Tasa de rotación global (%) y segmentada por género.
 
-Número de salidas por hombres y mujeres.
+.-Número de salidas por hombres y mujeres.
 
-Análisis de costo de contratación por puesto de trabajo.
+.-Análisis de costo de contratación por puesto de trabajo.
